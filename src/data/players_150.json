@@ -1,0 +1,1822 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Alfredo Di Stéfano",
+      "wikipedia_slug": "Alfredo_Di_Stéfano",
+      "nationality": "Argentine/Espagne",
+      "main_clubs": [
+        "River Plate",
+        "Real Madrid"
+      ],
+      "decade": "1950-1959",
+      "position": "Attaquant",
+      "birth_year": 1926
+    },
+    {
+      "id": 2,
+      "name": "Ferenc Puskás",
+      "wikipedia_slug": "Ferenc_Puskás",
+      "nationality": "Hongrie/Espagne",
+      "main_clubs": [
+        "Honvéd",
+        "Real Madrid"
+      ],
+      "decade": "1950-1959",
+      "position": "Attaquant",
+      "birth_year": 1927
+    },
+    {
+      "id": 3,
+      "name": "Lev Yachine",
+      "wikipedia_slug": "Lev_Iachine",
+      "nationality": "URSS",
+      "main_clubs": [
+        "Dynamo Moscou"
+      ],
+      "decade": "1950-1959",
+      "position": "Gardien",
+      "birth_year": 1929
+    },
+    {
+      "id": 4,
+      "name": "Garrincha",
+      "wikipedia_slug": "Garrincha",
+      "nationality": "Brésil",
+      "main_clubs": [
+        "Botafogo"
+      ],
+      "decade": "1950-1959",
+      "position": "Ailier",
+      "birth_year": 1933
+    },
+    {
+      "id": 5,
+      "name": "Raymond Kopa",
+      "wikipedia_slug": "Raymond_Kopa",
+      "nationality": "France",
+      "main_clubs": [
+        "Reims",
+        "Real Madrid"
+      ],
+      "decade": "1950-1959",
+      "position": "Milieu",
+      "birth_year": 1931
+    },
+    {
+      "id": 6,
+      "name": "Just Fontaine",
+      "wikipedia_slug": "Just_Fontaine",
+      "nationality": "France",
+      "main_clubs": [
+        "OGC Nice",
+        "Reims"
+      ],
+      "decade": "1950-1959",
+      "position": "Attaquant",
+      "birth_year": 1933
+    },
+    {
+      "id": 7,
+      "name": "Stanley Matthews",
+      "wikipedia_slug": "Stanley_Matthews",
+      "nationality": "Angleterre",
+      "main_clubs": [
+        "Stoke City",
+        "Blackpool"
+      ],
+      "decade": "1950-1959",
+      "position": "Ailier",
+      "birth_year": 1915
+    },
+    {
+      "id": 8,
+      "name": "Sándor Kocsis",
+      "wikipedia_slug": "Sándor_Kocsis",
+      "nationality": "Hongrie",
+      "main_clubs": [
+        "Honvéd",
+        "Barcelone"
+      ],
+      "decade": "1950-1959",
+      "position": "Attaquant",
+      "birth_year": 1929
+    },
+    {
+      "id": 9,
+      "name": "Pelé",
+      "wikipedia_slug": "Pelé",
+      "nationality": "Brésil",
+      "main_clubs": [
+        "Santos FC"
+      ],
+      "decade": "1960-1969",
+      "position": "Attaquant",
+      "birth_year": 1940
+    },
+    {
+      "id": 10,
+      "name": "Eusébio",
+      "wikipedia_slug": "Eusébio",
+      "nationality": "Portugal",
+      "main_clubs": [
+        "Benfica"
+      ],
+      "decade": "1960-1969",
+      "position": "Attaquant",
+      "birth_year": 1942
+    },
+    {
+      "id": 11,
+      "name": "Bobby Charlton",
+      "wikipedia_slug": "Bobby_Charlton",
+      "nationality": "Angleterre",
+      "main_clubs": [
+        "Manchester United"
+      ],
+      "decade": "1960-1969",
+      "position": "Milieu",
+      "birth_year": 1937
+    },
+    {
+      "id": 12,
+      "name": "George Best",
+      "wikipedia_slug": "George_Best",
+      "nationality": "Irlande du Nord",
+      "main_clubs": [
+        "Manchester United"
+      ],
+      "decade": "1960-1969",
+      "position": "Ailier",
+      "birth_year": 1946
+    },
+    {
+      "id": 13,
+      "name": "Bobby Moore",
+      "wikipedia_slug": "Bobby_Moore",
+      "nationality": "Angleterre",
+      "main_clubs": [
+        "West Ham"
+      ],
+      "decade": "1960-1969",
+      "position": "Défenseur",
+      "birth_year": 1941
+    },
+    {
+      "id": 14,
+      "name": "Denis Law",
+      "wikipedia_slug": "Denis_Law",
+      "nationality": "Écosse",
+      "main_clubs": [
+        "Manchester United"
+      ],
+      "decade": "1960-1969",
+      "position": "Attaquant",
+      "birth_year": 1940
+    },
+    {
+      "id": 15,
+      "name": "Gianni Rivera",
+      "wikipedia_slug": "Gianni_Rivera",
+      "nationality": "Italie",
+      "main_clubs": [
+        "AC Milan"
+      ],
+      "decade": "1960-1969",
+      "position": "Milieu",
+      "birth_year": 1943
+    },
+    {
+      "id": 16,
+      "name": "Jairzinho",
+      "wikipedia_slug": "Jairzinho",
+      "nationality": "Brésil",
+      "main_clubs": [
+        "Botafogo"
+      ],
+      "decade": "1960-1969",
+      "position": "Ailier",
+      "birth_year": 1944
+    },
+    {
+      "id": 17,
+      "name": "Gordon Banks",
+      "wikipedia_slug": "Gordon_Banks",
+      "nationality": "Angleterre",
+      "main_clubs": [
+        "Leicester",
+        "Stoke City"
+      ],
+      "decade": "1960-1969",
+      "position": "Gardien",
+      "birth_year": 1937
+    },
+    {
+      "id": 18,
+      "name": "Uwe Seeler",
+      "wikipedia_slug": "Uwe_Seeler",
+      "nationality": "Allemagne",
+      "main_clubs": [
+        "Hambourg"
+      ],
+      "decade": "1960-1969",
+      "position": "Attaquant",
+      "birth_year": 1936
+    },
+    {
+      "id": 19,
+      "name": "Giacinto Facchetti",
+      "wikipedia_slug": "Giacinto_Facchetti",
+      "nationality": "Italie",
+      "main_clubs": [
+        "Inter Milan"
+      ],
+      "decade": "1960-1969",
+      "position": "Défenseur",
+      "birth_year": 1942
+    },
+    {
+      "id": 20,
+      "name": "Didi",
+      "wikipedia_slug": "Didi_(footballer)",
+      "nationality": "Brésil",
+      "main_clubs": [
+        "Botafogo",
+        "Real Madrid"
+      ],
+      "decade": "1960-1969",
+      "position": "Milieu",
+      "birth_year": 1928
+    },
+    {
+      "id": 21,
+      "name": "Johan Cruyff",
+      "wikipedia_slug": "Johan_Cruyff",
+      "nationality": "Pays-Bas",
+      "main_clubs": [
+        "Ajax",
+        "Barcelone"
+      ],
+      "decade": "1970-1979",
+      "position": "Attaquant",
+      "birth_year": 1947
+    },
+    {
+      "id": 22,
+      "name": "Franz Beckenbauer",
+      "wikipedia_slug": "Franz_Beckenbauer",
+      "nationality": "Allemagne",
+      "main_clubs": [
+        "Bayern Munich"
+      ],
+      "decade": "1970-1979",
+      "position": "Défenseur",
+      "birth_year": 1945
+    },
+    {
+      "id": 23,
+      "name": "Gerd Müller",
+      "wikipedia_slug": "Gerd_Müller",
+      "nationality": "Allemagne",
+      "main_clubs": [
+        "Bayern Munich"
+      ],
+      "decade": "1970-1979",
+      "position": "Attaquant",
+      "birth_year": 1945
+    },
+    {
+      "id": 24,
+      "name": "Johan Neeskens",
+      "wikipedia_slug": "Johan_Neeskens",
+      "nationality": "Pays-Bas",
+      "main_clubs": [
+        "Ajax",
+        "Barcelone"
+      ],
+      "decade": "1970-1979",
+      "position": "Milieu",
+      "birth_year": 1951
+    },
+    {
+      "id": 25,
+      "name": "Kenny Dalglish",
+      "wikipedia_slug": "Kenny_Dalglish",
+      "nationality": "Écosse",
+      "main_clubs": [
+        "Celtic",
+        "Liverpool"
+      ],
+      "decade": "1970-1979",
+      "position": "Attaquant",
+      "birth_year": 1951
+    },
+    {
+      "id": 26,
+      "name": "Kevin Keegan",
+      "wikipedia_slug": "Kevin_Keegan",
+      "nationality": "Angleterre",
+      "main_clubs": [
+        "Liverpool",
+        "Hambourg"
+      ],
+      "decade": "1970-1979",
+      "position": "Attaquant",
+      "birth_year": 1951
+    },
+    {
+      "id": 27,
+      "name": "Dino Zoff",
+      "wikipedia_slug": "Dino_Zoff",
+      "nationality": "Italie",
+      "main_clubs": [
+        "Naples",
+        "Juventus"
+      ],
+      "decade": "1970-1979",
+      "position": "Gardien",
+      "birth_year": 1942
+    },
+    {
+      "id": 28,
+      "name": "Mario Kempes",
+      "wikipedia_slug": "Mario_Kempes",
+      "nationality": "Argentine",
+      "main_clubs": [
+        "Valencia",
+        "River Plate"
+      ],
+      "decade": "1970-1979",
+      "position": "Attaquant",
+      "birth_year": 1954
+    },
+    {
+      "id": 29,
+      "name": "Rivellino",
+      "wikipedia_slug": "Rivellino",
+      "nationality": "Brésil",
+      "main_clubs": [
+        "Corinthians",
+        "Fluminense"
+      ],
+      "decade": "1970-1979",
+      "position": "Milieu",
+      "birth_year": 1946
+    },
+    {
+      "id": 30,
+      "name": "Carlos Alberto Torres",
+      "wikipedia_slug": "Carlos_Alberto_Torres",
+      "nationality": "Brésil",
+      "main_clubs": [
+        "Santos",
+        "New York Cosmos"
+      ],
+      "decade": "1970-1979",
+      "position": "Défenseur",
+      "birth_year": 1944
+    },
+    {
+      "id": 31,
+      "name": "Grzegorz Lato",
+      "wikipedia_slug": "Grzegorz_Lato",
+      "nationality": "Pologne",
+      "main_clubs": [
+        "Stal Mielec"
+      ],
+      "decade": "1970-1979",
+      "position": "Ailier",
+      "birth_year": 1950
+    },
+    {
+      "id": 32,
+      "name": "Zbigniew Boniek",
+      "wikipedia_slug": "Zbigniew_Boniek",
+      "nationality": "Pologne",
+      "main_clubs": [
+        "Widzew Łódź",
+        "Juventus"
+      ],
+      "decade": "1970-1979",
+      "position": "Milieu",
+      "birth_year": 1956
+    },
+    {
+      "id": 33,
+      "name": "Teófilo Cubillas",
+      "wikipedia_slug": "Teófilo_Cubillas",
+      "nationality": "Pérou",
+      "main_clubs": [
+        "Alianza Lima",
+        "Porto"
+      ],
+      "decade": "1970-1979",
+      "position": "Milieu",
+      "birth_year": 1949
+    },
+    {
+      "id": 34,
+      "name": "Sepp Maier",
+      "wikipedia_slug": "Sepp_Maier",
+      "nationality": "Allemagne",
+      "main_clubs": [
+        "Bayern Munich"
+      ],
+      "decade": "1970-1979",
+      "position": "Gardien",
+      "birth_year": 1944
+    },
+    {
+      "id": 35,
+      "name": "Diego Maradona",
+      "wikipedia_slug": "Diego_Maradona",
+      "nationality": "Argentine",
+      "main_clubs": [
+        "Barcelone",
+        "Naples"
+      ],
+      "decade": "1980-1989",
+      "position": "Milieu offensif",
+      "birth_year": 1960
+    },
+    {
+      "id": 36,
+      "name": "Michel Platini",
+      "wikipedia_slug": "Michel_Platini",
+      "nationality": "France",
+      "main_clubs": [
+        "Saint-Étienne",
+        "Juventus"
+      ],
+      "decade": "1980-1989",
+      "position": "Milieu",
+      "birth_year": 1955
+    },
+    {
+      "id": 37,
+      "name": "Zico",
+      "wikipedia_slug": "Zico",
+      "nationality": "Brésil",
+      "main_clubs": [
+        "Flamengo",
+        "Udinese"
+      ],
+      "decade": "1980-1989",
+      "position": "Milieu",
+      "birth_year": 1953
+    },
+    {
+      "id": 38,
+      "name": "Ruud Gullit",
+      "wikipedia_slug": "Ruud_Gullit",
+      "nationality": "Pays-Bas",
+      "main_clubs": [
+        "PSV",
+        "AC Milan"
+      ],
+      "decade": "1980-1989",
+      "position": "Milieu",
+      "birth_year": 1962
+    },
+    {
+      "id": 39,
+      "name": "Marco Van Basten",
+      "wikipedia_slug": "Marco_van_Basten",
+      "nationality": "Pays-Bas",
+      "main_clubs": [
+        "Ajax",
+        "AC Milan"
+      ],
+      "decade": "1980-1989",
+      "position": "Attaquant",
+      "birth_year": 1964
+    },
+    {
+      "id": 40,
+      "name": "Franco Baresi",
+      "wikipedia_slug": "Franco_Baresi",
+      "nationality": "Italie",
+      "main_clubs": [
+        "AC Milan"
+      ],
+      "decade": "1980-1989",
+      "position": "Défenseur",
+      "birth_year": 1960
+    },
+    {
+      "id": 41,
+      "name": "Sócrates",
+      "wikipedia_slug": "Sócrates_(footballer)",
+      "nationality": "Brésil",
+      "main_clubs": [
+        "Corinthians",
+        "Fiorentina"
+      ],
+      "decade": "1980-1989",
+      "position": "Milieu",
+      "birth_year": 1954
+    },
+    {
+      "id": 42,
+      "name": "Karl-Heinz Rummenigge",
+      "wikipedia_slug": "Karl-Heinz_Rummenigge",
+      "nationality": "Allemagne",
+      "main_clubs": [
+        "Bayern Munich",
+        "Inter Milan"
+      ],
+      "decade": "1980-1989",
+      "position": "Attaquant",
+      "birth_year": 1955
+    },
+    {
+      "id": 43,
+      "name": "Frank Rijkaard",
+      "wikipedia_slug": "Frank_Rijkaard",
+      "nationality": "Pays-Bas",
+      "main_clubs": [
+        "Ajax",
+        "AC Milan"
+      ],
+      "decade": "1980-1989",
+      "position": "Milieu",
+      "birth_year": 1962
+    },
+    {
+      "id": 44,
+      "name": "Paolo Rossi",
+      "wikipedia_slug": "Paolo_Rossi",
+      "nationality": "Italie",
+      "main_clubs": [
+        "Juventus",
+        "Vicence"
+      ],
+      "decade": "1980-1989",
+      "position": "Attaquant",
+      "birth_year": 1956
+    },
+    {
+      "id": 45,
+      "name": "Gary Lineker",
+      "wikipedia_slug": "Gary_Lineker",
+      "nationality": "Angleterre",
+      "main_clubs": [
+        "Everton",
+        "Barcelone",
+        "Tottenham"
+      ],
+      "decade": "1980-1989",
+      "position": "Attaquant",
+      "birth_year": 1960
+    },
+    {
+      "id": 46,
+      "name": "Falcão",
+      "wikipedia_slug": "Falcão_(footballer,_born_1953)",
+      "nationality": "Brésil",
+      "main_clubs": [
+        "Internacional",
+        "Roma"
+      ],
+      "decade": "1980-1989",
+      "position": "Milieu",
+      "birth_year": 1953
+    },
+    {
+      "id": 47,
+      "name": "Ronald Koeman",
+      "wikipedia_slug": "Ronald_Koeman",
+      "nationality": "Pays-Bas",
+      "main_clubs": [
+        "PSV",
+        "Barcelone"
+      ],
+      "decade": "1980-1989",
+      "position": "Défenseur",
+      "birth_year": 1963
+    },
+    {
+      "id": 48,
+      "name": "Rudi Völler",
+      "wikipedia_slug": "Rudi_Völler",
+      "nationality": "Allemagne",
+      "main_clubs": [
+        "Werder Brême",
+        "Roma",
+        "Marseille"
+      ],
+      "decade": "1980-1989",
+      "position": "Attaquant",
+      "birth_year": 1960
+    },
+    {
+      "id": 49,
+      "name": "Paolo Maldini",
+      "wikipedia_slug": "Paolo_Maldini",
+      "nationality": "Italie",
+      "main_clubs": [
+        "AC Milan"
+      ],
+      "decade": "1980-1989",
+      "position": "Défenseur",
+      "birth_year": 1968
+    },
+    {
+      "id": 50,
+      "name": "Alain Giresse",
+      "wikipedia_slug": "Alain_Giresse",
+      "nationality": "France",
+      "main_clubs": [
+        "Bordeaux",
+        "Marseille"
+      ],
+      "decade": "1980-1989",
+      "position": "Milieu",
+      "birth_year": 1952
+    },
+    {
+      "id": 51,
+      "name": "Karl-Heinz Förster",
+      "wikipedia_slug": "Karl-Heinz_Förster",
+      "nationality": "Allemagne",
+      "main_clubs": [
+        "Stuttgart",
+        "Marseille"
+      ],
+      "decade": "1980-1989",
+      "position": "Défenseur",
+      "birth_year": 1958
+    },
+    {
+      "id": 52,
+      "name": "Preben Elkjær",
+      "wikipedia_slug": "Preben_Elkjær",
+      "nationality": "Danemark",
+      "main_clubs": [
+        "Köln",
+        "Verona"
+      ],
+      "decade": "1980-1989",
+      "position": "Attaquant",
+      "birth_year": 1957
+    },
+    {
+      "id": 53,
+      "name": "Ronaldo R9",
+      "wikipedia_slug": "Ronaldo_(Brazilian_footballer)",
+      "nationality": "Brésil",
+      "main_clubs": [
+        "PSV",
+        "Barcelone",
+        "Inter Milan"
+      ],
+      "decade": "1990-1999",
+      "position": "Attaquant",
+      "birth_year": 1976
+    },
+    {
+      "id": 54,
+      "name": "Zinédine Zidane",
+      "wikipedia_slug": "Zinedine_Zidane",
+      "nationality": "France",
+      "main_clubs": [
+        "Bordeaux",
+        "Juventus"
+      ],
+      "decade": "1990-1999",
+      "position": "Milieu",
+      "birth_year": 1972
+    },
+    {
+      "id": 55,
+      "name": "Romário",
+      "wikipedia_slug": "Romário",
+      "nationality": "Brésil",
+      "main_clubs": [
+        "PSV",
+        "Barcelone"
+      ],
+      "decade": "1990-1999",
+      "position": "Attaquant",
+      "birth_year": 1966
+    },
+    {
+      "id": 56,
+      "name": "Roberto Baggio",
+      "wikipedia_slug": "Roberto_Baggio",
+      "nationality": "Italie",
+      "main_clubs": [
+        "Juventus",
+        "AC Milan",
+        "Fiorentina"
+      ],
+      "decade": "1990-1999",
+      "position": "Attaquant",
+      "birth_year": 1967
+    },
+    {
+      "id": 57,
+      "name": "Eric Cantona",
+      "wikipedia_slug": "Eric_Cantona",
+      "nationality": "France",
+      "main_clubs": [
+        "Leeds",
+        "Manchester United"
+      ],
+      "decade": "1990-1999",
+      "position": "Attaquant",
+      "birth_year": 1966
+    },
+    {
+      "id": 58,
+      "name": "Gabriel Batistuta",
+      "wikipedia_slug": "Gabriel_Batistuta",
+      "nationality": "Argentine",
+      "main_clubs": [
+        "Fiorentina",
+        "Roma"
+      ],
+      "decade": "1990-1999",
+      "position": "Attaquant",
+      "birth_year": 1969
+    },
+    {
+      "id": 59,
+      "name": "Lothar Matthäus",
+      "wikipedia_slug": "Lothar_Matthäus",
+      "nationality": "Allemagne",
+      "main_clubs": [
+        "Bayern Munich",
+        "Inter Milan"
+      ],
+      "decade": "1990-1999",
+      "position": "Milieu",
+      "birth_year": 1961
+    },
+    {
+      "id": 60,
+      "name": "Rivaldo",
+      "wikipedia_slug": "Rivaldo",
+      "nationality": "Brésil",
+      "main_clubs": [
+        "Deportivo",
+        "Barcelone"
+      ],
+      "decade": "1990-1999",
+      "position": "Milieu",
+      "birth_year": 1972
+    },
+    {
+      "id": 61,
+      "name": "Hristo Stoïchkov",
+      "wikipedia_slug": "Hristo_Stoichkov",
+      "nationality": "Bulgarie",
+      "main_clubs": [
+        "CSKA Sofia",
+        "Barcelone"
+      ],
+      "decade": "1990-1999",
+      "position": "Attaquant",
+      "birth_year": 1966
+    },
+    {
+      "id": 62,
+      "name": "Peter Schmeichel",
+      "wikipedia_slug": "Peter_Schmeichel",
+      "nationality": "Danemark",
+      "main_clubs": [
+        "Manchester United"
+      ],
+      "decade": "1990-1999",
+      "position": "Gardien",
+      "birth_year": 1963
+    },
+    {
+      "id": 63,
+      "name": "Dennis Bergkamp",
+      "wikipedia_slug": "Dennis_Bergkamp",
+      "nationality": "Pays-Bas",
+      "main_clubs": [
+        "Ajax",
+        "Inter Milan",
+        "Arsenal"
+      ],
+      "decade": "1990-1999",
+      "position": "Attaquant",
+      "birth_year": 1969
+    },
+    {
+      "id": 64,
+      "name": "Alessandro Del Piero",
+      "wikipedia_slug": "Alessandro_Del_Piero",
+      "nationality": "Italie",
+      "main_clubs": [
+        "Juventus"
+      ],
+      "decade": "1990-1999",
+      "position": "Attaquant",
+      "birth_year": 1974
+    },
+    {
+      "id": 65,
+      "name": "Ryan Giggs",
+      "wikipedia_slug": "Ryan_Giggs",
+      "nationality": "Pays de Galles",
+      "main_clubs": [
+        "Manchester United"
+      ],
+      "decade": "1990-1999",
+      "position": "Ailier",
+      "birth_year": 1973
+    },
+    {
+      "id": 66,
+      "name": "Roy Keane",
+      "wikipedia_slug": "Roy_Keane",
+      "nationality": "Irlande",
+      "main_clubs": [
+        "Nottingham Forest",
+        "Manchester United"
+      ],
+      "decade": "1990-1999",
+      "position": "Milieu",
+      "birth_year": 1971
+    },
+    {
+      "id": 67,
+      "name": "Gheorghe Hagi",
+      "wikipedia_slug": "Gheorghe_Hagi",
+      "nationality": "Roumanie",
+      "main_clubs": [
+        "Real Madrid",
+        "Galatasaray"
+      ],
+      "decade": "1990-1999",
+      "position": "Milieu",
+      "birth_year": 1965
+    },
+    {
+      "id": 68,
+      "name": "Davor Šuker",
+      "wikipedia_slug": "Davor_Šuker",
+      "nationality": "Croatie",
+      "main_clubs": [
+        "Séville",
+        "Real Madrid"
+      ],
+      "decade": "1990-1999",
+      "position": "Attaquant",
+      "birth_year": 1968
+    },
+    {
+      "id": 69,
+      "name": "Alan Shearer",
+      "wikipedia_slug": "Alan_Shearer",
+      "nationality": "Angleterre",
+      "main_clubs": [
+        "Blackburn",
+        "Newcastle"
+      ],
+      "decade": "1990-1999",
+      "position": "Attaquant",
+      "birth_year": 1970
+    },
+    {
+      "id": 70,
+      "name": "Fernando Hierro",
+      "wikipedia_slug": "Fernando_Hierro",
+      "nationality": "Espagne",
+      "main_clubs": [
+        "Real Madrid"
+      ],
+      "decade": "1990-1999",
+      "position": "Défenseur",
+      "birth_year": 1968
+    },
+    {
+      "id": 71,
+      "name": "Dejan Savićević",
+      "wikipedia_slug": "Dejan_Savićević",
+      "nationality": "Monténégro",
+      "main_clubs": [
+        "Red Star Belgrade",
+        "AC Milan"
+      ],
+      "decade": "1990-1999",
+      "position": "Milieu",
+      "birth_year": 1966
+    },
+    {
+      "id": 72,
+      "name": "Bebeto",
+      "wikipedia_slug": "Bebeto",
+      "nationality": "Brésil",
+      "main_clubs": [
+        "Flamengo",
+        "Deportivo"
+      ],
+      "decade": "1990-1999",
+      "position": "Attaquant",
+      "birth_year": 1964
+    },
+    {
+      "id": 73,
+      "name": "Matthias Sammer",
+      "wikipedia_slug": "Matthias_Sammer",
+      "nationality": "Allemagne",
+      "main_clubs": [
+        "Inter Milan",
+        "Dortmund"
+      ],
+      "decade": "1990-1999",
+      "position": "Milieu",
+      "birth_year": 1967
+    },
+    {
+      "id": 74,
+      "name": "Paul Gascoigne",
+      "wikipedia_slug": "Paul_Gascoigne",
+      "nationality": "Angleterre",
+      "main_clubs": [
+        "Tottenham",
+        "Lazio",
+        "Rangers"
+      ],
+      "decade": "1990-1999",
+      "position": "Milieu",
+      "birth_year": 1967
+    },
+    {
+      "id": 75,
+      "name": "Carlos Valderrama",
+      "wikipedia_slug": "Carlos_Valderrama",
+      "nationality": "Colombie",
+      "main_clubs": [
+        "Deportivo Cali",
+        "Atletico Junior"
+      ],
+      "decade": "1990-1999",
+      "position": "Milieu",
+      "birth_year": 1961
+    },
+    {
+      "id": 76,
+      "name": "Javier Zanetti",
+      "wikipedia_slug": "Javier_Zanetti",
+      "nationality": "Argentine",
+      "main_clubs": [
+        "Inter Milan"
+      ],
+      "decade": "1990-1999",
+      "position": "Défenseur",
+      "birth_year": 1973
+    },
+    {
+      "id": 77,
+      "name": "Zvonimir Boban",
+      "wikipedia_slug": "Zvonimir_Boban",
+      "nationality": "Croatie",
+      "main_clubs": [
+        "Dinamo Zagreb",
+        "AC Milan"
+      ],
+      "decade": "1990-1999",
+      "position": "Milieu",
+      "birth_year": 1968
+    },
+    {
+      "id": 78,
+      "name": "Michael Laudrup",
+      "wikipedia_slug": "Michael_Laudrup",
+      "nationality": "Danemark",
+      "main_clubs": [
+        "Juventus",
+        "Barcelone",
+        "Real Madrid"
+      ],
+      "decade": "1990-1999",
+      "position": "Milieu",
+      "birth_year": 1964
+    },
+    {
+      "id": 79,
+      "name": "Didier Deschamps",
+      "wikipedia_slug": "Didier_Deschamps",
+      "nationality": "France",
+      "main_clubs": [
+        "Marseille",
+        "Juventus",
+        "Chelsea"
+      ],
+      "decade": "1990-1999",
+      "position": "Milieu",
+      "birth_year": 1968
+    },
+    {
+      "id": 80,
+      "name": "Ronaldinho",
+      "wikipedia_slug": "Ronaldinho",
+      "nationality": "Brésil",
+      "main_clubs": [
+        "PSG",
+        "Barcelone",
+        "AC Milan"
+      ],
+      "decade": "2000-2009",
+      "position": "Milieu",
+      "birth_year": 1980
+    },
+    {
+      "id": 81,
+      "name": "Kaká",
+      "wikipedia_slug": "Kaká",
+      "nationality": "Brésil",
+      "main_clubs": [
+        "AC Milan",
+        "Real Madrid"
+      ],
+      "decade": "2000-2009",
+      "position": "Milieu",
+      "birth_year": 1982
+    },
+    {
+      "id": 82,
+      "name": "Thierry Henry",
+      "wikipedia_slug": "Thierry_Henry",
+      "nationality": "France",
+      "main_clubs": [
+        "Monaco",
+        "Arsenal",
+        "Barcelone"
+      ],
+      "decade": "2000-2009",
+      "position": "Attaquant",
+      "birth_year": 1977
+    },
+    {
+      "id": 83,
+      "name": "Andriy Shevchenko",
+      "wikipedia_slug": "Andriy_Shevchenko",
+      "nationality": "Ukraine",
+      "main_clubs": [
+        "Dynamo Kiev",
+        "AC Milan"
+      ],
+      "decade": "2000-2009",
+      "position": "Attaquant",
+      "birth_year": 1976
+    },
+    {
+      "id": 84,
+      "name": "Luis Figo",
+      "wikipedia_slug": "Luís_Figo",
+      "nationality": "Portugal",
+      "main_clubs": [
+        "Barcelone",
+        "Real Madrid",
+        "Inter Milan"
+      ],
+      "decade": "2000-2009",
+      "position": "Ailier",
+      "birth_year": 1972
+    },
+    {
+      "id": 85,
+      "name": "Raúl",
+      "wikipedia_slug": "Raúl",
+      "nationality": "Espagne",
+      "main_clubs": [
+        "Real Madrid",
+        "Schalke"
+      ],
+      "decade": "2000-2009",
+      "position": "Attaquant",
+      "birth_year": 1977
+    },
+    {
+      "id": 86,
+      "name": "Pavel Nedvěd",
+      "wikipedia_slug": "Pavel_Nedvěd",
+      "nationality": "Rép. tchèque",
+      "main_clubs": [
+        "Lazio",
+        "Juventus"
+      ],
+      "decade": "2000-2009",
+      "position": "Milieu",
+      "birth_year": 1972
+    },
+    {
+      "id": 87,
+      "name": "Francesco Totti",
+      "wikipedia_slug": "Francesco_Totti",
+      "nationality": "Italie",
+      "main_clubs": [
+        "Roma"
+      ],
+      "decade": "2000-2009",
+      "position": "Attaquant",
+      "birth_year": 1976
+    },
+    {
+      "id": 88,
+      "name": "Samuel Eto'o",
+      "wikipedia_slug": "Samuel_Eto%27o",
+      "nationality": "Cameroun",
+      "main_clubs": [
+        "Majorque",
+        "Barcelone",
+        "Inter Milan"
+      ],
+      "decade": "2000-2009",
+      "position": "Attaquant",
+      "birth_year": 1981
+    },
+    {
+      "id": 89,
+      "name": "Didier Drogba",
+      "wikipedia_slug": "Didier_Drogba",
+      "nationality": "Côte d'Ivoire",
+      "main_clubs": [
+        "Marseille",
+        "Chelsea"
+      ],
+      "decade": "2000-2009",
+      "position": "Attaquant",
+      "birth_year": 1978
+    },
+    {
+      "id": 90,
+      "name": "Frank Lampard",
+      "wikipedia_slug": "Frank_Lampard",
+      "nationality": "Angleterre",
+      "main_clubs": [
+        "West Ham",
+        "Chelsea"
+      ],
+      "decade": "2000-2009",
+      "position": "Milieu",
+      "birth_year": 1978
+    },
+    {
+      "id": 91,
+      "name": "Steven Gerrard",
+      "wikipedia_slug": "Steven_Gerrard",
+      "nationality": "Angleterre",
+      "main_clubs": [
+        "Liverpool"
+      ],
+      "decade": "2000-2009",
+      "position": "Milieu",
+      "birth_year": 1980
+    },
+    {
+      "id": 92,
+      "name": "Gianluigi Buffon",
+      "wikipedia_slug": "Gianluigi_Buffon",
+      "nationality": "Italie",
+      "main_clubs": [
+        "Parme",
+        "Juventus"
+      ],
+      "decade": "2000-2009",
+      "position": "Gardien",
+      "birth_year": 1978
+    },
+    {
+      "id": 93,
+      "name": "Fabio Cannavaro",
+      "wikipedia_slug": "Fabio_Cannavaro",
+      "nationality": "Italie",
+      "main_clubs": [
+        "Napoli",
+        "Parme",
+        "Juventus",
+        "Real Madrid"
+      ],
+      "decade": "2000-2009",
+      "position": "Défenseur",
+      "birth_year": 1973
+    },
+    {
+      "id": 94,
+      "name": "Michael Ballack",
+      "wikipedia_slug": "Michael_Ballack",
+      "nationality": "Allemagne",
+      "main_clubs": [
+        "Leverkusen",
+        "Bayern Munich",
+        "Chelsea"
+      ],
+      "decade": "2000-2009",
+      "position": "Milieu",
+      "birth_year": 1976
+    },
+    {
+      "id": 95,
+      "name": "Andrea Pirlo",
+      "wikipedia_slug": "Andrea_Pirlo",
+      "nationality": "Italie",
+      "main_clubs": [
+        "Brescia",
+        "AC Milan",
+        "Juventus"
+      ],
+      "decade": "2000-2009",
+      "position": "Milieu",
+      "birth_year": 1979
+    },
+    {
+      "id": 96,
+      "name": "Roberto Carlos",
+      "wikipedia_slug": "Roberto_Carlos",
+      "nationality": "Brésil",
+      "main_clubs": [
+        "Inter Milan",
+        "Real Madrid"
+      ],
+      "decade": "2000-2009",
+      "position": "Défenseur",
+      "birth_year": 1973
+    },
+    {
+      "id": 97,
+      "name": "Xabi Alonso",
+      "wikipedia_slug": "Xabi_Alonso",
+      "nationality": "Espagne",
+      "main_clubs": [
+        "Real Sociedad",
+        "Liverpool",
+        "Real Madrid"
+      ],
+      "decade": "2000-2009",
+      "position": "Milieu",
+      "birth_year": 1981
+    },
+    {
+      "id": 98,
+      "name": "Wayne Rooney",
+      "wikipedia_slug": "Wayne_Rooney",
+      "nationality": "Angleterre",
+      "main_clubs": [
+        "Everton",
+        "Manchester United"
+      ],
+      "decade": "2000-2009",
+      "position": "Attaquant",
+      "birth_year": 1985
+    },
+    {
+      "id": 99,
+      "name": "Iker Casillas",
+      "wikipedia_slug": "Iker_Casillas",
+      "nationality": "Espagne",
+      "main_clubs": [
+        "Real Madrid"
+      ],
+      "decade": "2000-2009",
+      "position": "Gardien",
+      "birth_year": 1981
+    },
+    {
+      "id": 100,
+      "name": "Alessandro Nesta",
+      "wikipedia_slug": "Alessandro_Nesta",
+      "nationality": "Italie",
+      "main_clubs": [
+        "Lazio",
+        "AC Milan"
+      ],
+      "decade": "2000-2009",
+      "position": "Défenseur",
+      "birth_year": 1976
+    },
+    {
+      "id": 101,
+      "name": "Juan Román Riquelme",
+      "wikipedia_slug": "Juan_Román_Riquelme",
+      "nationality": "Argentine",
+      "main_clubs": [
+        "Boca Juniors",
+        "Villarreal"
+      ],
+      "decade": "2000-2009",
+      "position": "Milieu",
+      "birth_year": 1978
+    },
+    {
+      "id": 102,
+      "name": "Carlos Tevez",
+      "wikipedia_slug": "Carlos_Tevez",
+      "nationality": "Argentine",
+      "main_clubs": [
+        "Corinthians",
+        "Manchester United",
+        "Manchester City"
+      ],
+      "decade": "2000-2009",
+      "position": "Attaquant",
+      "birth_year": 1984
+    },
+    {
+      "id": 103,
+      "name": "Robert Pires",
+      "wikipedia_slug": "Robert_Pirès",
+      "nationality": "France",
+      "main_clubs": [
+        "Arsenal",
+        "Villarreal"
+      ],
+      "decade": "2000-2009",
+      "position": "Milieu",
+      "birth_year": 1973
+    },
+    {
+      "id": 104,
+      "name": "Paul Scholes",
+      "wikipedia_slug": "Paul_Scholes",
+      "nationality": "Angleterre",
+      "main_clubs": [
+        "Manchester United"
+      ],
+      "decade": "2000-2009",
+      "position": "Milieu",
+      "birth_year": 1974
+    },
+    {
+      "id": 105,
+      "name": "Claude Makélélé",
+      "wikipedia_slug": "Claude_Makélélé",
+      "nationality": "France",
+      "main_clubs": [
+        "Real Madrid",
+        "Chelsea"
+      ],
+      "decade": "2000-2009",
+      "position": "Milieu",
+      "birth_year": 1973
+    },
+    {
+      "id": 106,
+      "name": "Lionel Messi",
+      "wikipedia_slug": "Lionel_Messi",
+      "nationality": "Argentine",
+      "main_clubs": [
+        "Barcelone"
+      ],
+      "decade": "2010-2019",
+      "position": "Attaquant",
+      "birth_year": 1987
+    },
+    {
+      "id": 107,
+      "name": "Cristiano Ronaldo",
+      "wikipedia_slug": "Cristiano_Ronaldo",
+      "nationality": "Portugal",
+      "main_clubs": [
+        "Real Madrid"
+      ],
+      "decade": "2010-2019",
+      "position": "Attaquant",
+      "birth_year": 1985
+    },
+    {
+      "id": 108,
+      "name": "Xavi",
+      "wikipedia_slug": "Xavi",
+      "nationality": "Espagne",
+      "main_clubs": [
+        "Barcelone"
+      ],
+      "decade": "2010-2019",
+      "position": "Milieu",
+      "birth_year": 1980
+    },
+    {
+      "id": 109,
+      "name": "Andrés Iniesta",
+      "wikipedia_slug": "Andrés_Iniesta",
+      "nationality": "Espagne",
+      "main_clubs": [
+        "Barcelone"
+      ],
+      "decade": "2010-2019",
+      "position": "Milieu",
+      "birth_year": 1984
+    },
+    {
+      "id": 110,
+      "name": "Arjen Robben",
+      "wikipedia_slug": "Arjen_Robben",
+      "nationality": "Pays-Bas",
+      "main_clubs": [
+        "Chelsea",
+        "Real Madrid",
+        "Bayern Munich"
+      ],
+      "decade": "2010-2019",
+      "position": "Ailier",
+      "birth_year": 1984
+    },
+    {
+      "id": 111,
+      "name": "Franck Ribéry",
+      "wikipedia_slug": "Franck_Ribéry",
+      "nationality": "France",
+      "main_clubs": [
+        "Marseille",
+        "Bayern Munich"
+      ],
+      "decade": "2010-2019",
+      "position": "Ailier",
+      "birth_year": 1983
+    },
+    {
+      "id": 112,
+      "name": "Neymar",
+      "wikipedia_slug": "Neymar",
+      "nationality": "Brésil",
+      "main_clubs": [
+        "Santos",
+        "Barcelone",
+        "PSG"
+      ],
+      "decade": "2010-2019",
+      "position": "Ailier",
+      "birth_year": 1992
+    },
+    {
+      "id": 113,
+      "name": "Robert Lewandowski",
+      "wikipedia_slug": "Robert_Lewandowski",
+      "nationality": "Pologne",
+      "main_clubs": [
+        "Dortmund",
+        "Bayern Munich"
+      ],
+      "decade": "2010-2019",
+      "position": "Attaquant",
+      "birth_year": 1988
+    },
+    {
+      "id": 114,
+      "name": "Luis Suárez",
+      "wikipedia_slug": "Luis_Suárez",
+      "nationality": "Uruguay",
+      "main_clubs": [
+        "Ajax",
+        "Liverpool",
+        "Barcelone"
+      ],
+      "decade": "2010-2019",
+      "position": "Attaquant",
+      "birth_year": 1987
+    },
+    {
+      "id": 115,
+      "name": "Karim Benzema",
+      "wikipedia_slug": "Karim_Benzema",
+      "nationality": "France",
+      "main_clubs": [
+        "Lyon",
+        "Real Madrid"
+      ],
+      "decade": "2010-2019",
+      "position": "Attaquant",
+      "birth_year": 1987
+    },
+    {
+      "id": 116,
+      "name": "Luka Modrić",
+      "wikipedia_slug": "Luka_Modrić",
+      "nationality": "Croatie",
+      "main_clubs": [
+        "Tottenham",
+        "Real Madrid"
+      ],
+      "decade": "2010-2019",
+      "position": "Milieu",
+      "birth_year": 1985
+    },
+    {
+      "id": 117,
+      "name": "Manuel Neuer",
+      "wikipedia_slug": "Manuel_Neuer",
+      "nationality": "Allemagne",
+      "main_clubs": [
+        "Schalke",
+        "Bayern Munich"
+      ],
+      "decade": "2010-2019",
+      "position": "Gardien",
+      "birth_year": 1986
+    },
+    {
+      "id": 118,
+      "name": "Sergio Ramos",
+      "wikipedia_slug": "Sergio_Ramos",
+      "nationality": "Espagne",
+      "main_clubs": [
+        "Séville",
+        "Real Madrid"
+      ],
+      "decade": "2010-2019",
+      "position": "Défenseur",
+      "birth_year": 1986
+    },
+    {
+      "id": 119,
+      "name": "Eden Hazard",
+      "wikipedia_slug": "Eden_Hazard",
+      "nationality": "Belgique",
+      "main_clubs": [
+        "Lille",
+        "Chelsea",
+        "Real Madrid"
+      ],
+      "decade": "2010-2019",
+      "position": "Milieu",
+      "birth_year": 1991
+    },
+    {
+      "id": 120,
+      "name": "Kevin De Bruyne",
+      "wikipedia_slug": "Kevin_De_Bruyne",
+      "nationality": "Belgique",
+      "main_clubs": [
+        "Wolfsbourg",
+        "Manchester City"
+      ],
+      "decade": "2010-2019",
+      "position": "Milieu",
+      "birth_year": 1991
+    },
+    {
+      "id": 121,
+      "name": "N'Golo Kanté",
+      "wikipedia_slug": "N%27Golo_Kanté",
+      "nationality": "France",
+      "main_clubs": [
+        "Caen",
+        "Leicester",
+        "Chelsea"
+      ],
+      "decade": "2010-2019",
+      "position": "Milieu",
+      "birth_year": 1991
+    },
+    {
+      "id": 122,
+      "name": "Mohamed Salah",
+      "wikipedia_slug": "Mohamed_Salah",
+      "nationality": "Égypte",
+      "main_clubs": [
+        "Chelsea",
+        "Roma",
+        "Liverpool"
+      ],
+      "decade": "2010-2019",
+      "position": "Ailier",
+      "birth_year": 1992
+    },
+    {
+      "id": 123,
+      "name": "Sadio Mané",
+      "wikipedia_slug": "Sadio_Mané",
+      "nationality": "Sénégal",
+      "main_clubs": [
+        "Southampton",
+        "Liverpool",
+        "Bayern Munich"
+      ],
+      "decade": "2010-2019",
+      "position": "Ailier",
+      "birth_year": 1992
+    },
+    {
+      "id": 124,
+      "name": "Sergio Agüero",
+      "wikipedia_slug": "Sergio_Agüero",
+      "nationality": "Argentine",
+      "main_clubs": [
+        "Atletico Madrid",
+        "Manchester City"
+      ],
+      "decade": "2010-2019",
+      "position": "Attaquant",
+      "birth_year": 1988
+    },
+    {
+      "id": 125,
+      "name": "Virgil van Dijk",
+      "wikipedia_slug": "Virgil_van_Dijk",
+      "nationality": "Pays-Bas",
+      "main_clubs": [
+        "Southampton",
+        "Liverpool"
+      ],
+      "decade": "2010-2019",
+      "position": "Défenseur",
+      "birth_year": 1991
+    },
+    {
+      "id": 126,
+      "name": "Toni Kroos",
+      "wikipedia_slug": "Toni_Kroos",
+      "nationality": "Allemagne",
+      "main_clubs": [
+        "Bayern Munich",
+        "Real Madrid"
+      ],
+      "decade": "2010-2019",
+      "position": "Milieu",
+      "birth_year": 1990
+    },
+    {
+      "id": 127,
+      "name": "Thomas Müller",
+      "wikipedia_slug": "Thomas_Müller",
+      "nationality": "Allemagne",
+      "main_clubs": [
+        "Bayern Munich"
+      ],
+      "decade": "2010-2019",
+      "position": "Milieu",
+      "birth_year": 1989
+    },
+    {
+      "id": 128,
+      "name": "Antoine Griezmann",
+      "wikipedia_slug": "Antoine_Griezmann",
+      "nationality": "France",
+      "main_clubs": [
+        "Real Sociedad",
+        "Atletico Madrid",
+        "Barcelone"
+      ],
+      "decade": "2010-2019",
+      "position": "Attaquant",
+      "birth_year": 1991
+    },
+    {
+      "id": 129,
+      "name": "Yaya Touré",
+      "wikipedia_slug": "Yaya_Touré",
+      "nationality": "Côte d'Ivoire",
+      "main_clubs": [
+        "Barcelone",
+        "Manchester City"
+      ],
+      "decade": "2010-2019",
+      "position": "Milieu",
+      "birth_year": 1983
+    },
+    {
+      "id": 130,
+      "name": "David Silva",
+      "wikipedia_slug": "David_Silva",
+      "nationality": "Espagne",
+      "main_clubs": [
+        "Valencia",
+        "Manchester City"
+      ],
+      "decade": "2010-2019",
+      "position": "Milieu",
+      "birth_year": 1986
+    },
+    {
+      "id": 131,
+      "name": "Gareth Bale",
+      "wikipedia_slug": "Gareth_Bale",
+      "nationality": "Pays de Galles",
+      "main_clubs": [
+        "Tottenham",
+        "Real Madrid"
+      ],
+      "decade": "2010-2019",
+      "position": "Ailier",
+      "birth_year": 1989
+    },
+    {
+      "id": 132,
+      "name": "Ángel Di María",
+      "wikipedia_slug": "Ángel_Di_María",
+      "nationality": "Argentine",
+      "main_clubs": [
+        "Benfica",
+        "Real Madrid",
+        "PSG"
+      ],
+      "decade": "2010-2019",
+      "position": "Ailier",
+      "birth_year": 1988
+    },
+    {
+      "id": 133,
+      "name": "Riyad Mahrez",
+      "wikipedia_slug": "Riyad_Mahrez",
+      "nationality": "Algérie",
+      "main_clubs": [
+        "Leicester",
+        "Manchester City"
+      ],
+      "decade": "2010-2019",
+      "position": "Ailier",
+      "birth_year": 1991
+    },
+    {
+      "id": 134,
+      "name": "Zlatan (PSG prime)",
+      "wikipedia_slug": "Zlatan_Ibrahimović",
+      "nationality": "Suède",
+      "main_clubs": [
+        "AC Milan",
+        "PSG"
+      ],
+      "decade": "2010-2019",
+      "position": "Attaquant",
+      "birth_year": 1981
+    },
+    {
+      "id": 135,
+      "name": "Kylian Mbappé",
+      "wikipedia_slug": "Kylian_Mbappé",
+      "nationality": "France",
+      "main_clubs": [
+        "Monaco",
+        "PSG",
+        "Real Madrid"
+      ],
+      "decade": "2020-2025",
+      "position": "Attaquant",
+      "birth_year": 1998
+    },
+    {
+      "id": 136,
+      "name": "Erling Haaland",
+      "wikipedia_slug": "Erling_Haaland",
+      "nationality": "Norvège",
+      "main_clubs": [
+        "RB Salzburg",
+        "Dortmund",
+        "Manchester City"
+      ],
+      "decade": "2020-2025",
+      "position": "Attaquant",
+      "birth_year": 2000
+    },
+    {
+      "id": 137,
+      "name": "Vinicius Jr",
+      "wikipedia_slug": "Vinícius_Júnior",
+      "nationality": "Brésil",
+      "main_clubs": [
+        "Flamengo",
+        "Real Madrid"
+      ],
+      "decade": "2020-2025",
+      "position": "Ailier",
+      "birth_year": 2000
+    },
+    {
+      "id": 138,
+      "name": "Rodri",
+      "wikipedia_slug": "Rodri",
+      "nationality": "Espagne",
+      "main_clubs": [
+        "Atletico Madrid",
+        "Manchester City"
+      ],
+      "decade": "2020-2025",
+      "position": "Milieu",
+      "birth_year": 1996
+    },
+    {
+      "id": 139,
+      "name": "Jude Bellingham",
+      "wikipedia_slug": "Jude_Bellingham",
+      "nationality": "Angleterre",
+      "main_clubs": [
+        "Birmingham",
+        "Dortmund",
+        "Real Madrid"
+      ],
+      "decade": "2020-2025",
+      "position": "Milieu",
+      "birth_year": 2003
+    },
+    {
+      "id": 140,
+      "name": "Lautaro Martínez",
+      "wikipedia_slug": "Lautaro_Martínez",
+      "nationality": "Argentine",
+      "main_clubs": [
+        "Racing Club",
+        "Inter Milan"
+      ],
+      "decade": "2020-2025",
+      "position": "Attaquant",
+      "birth_year": 1997
+    }
+  ]
+}
